@@ -6,7 +6,7 @@ const App = () => {
     <>
       <SectionWrapper 
         title ="First React App nku kuys hahaha sample"
-        description="Buy, store, dsfsdf sdfsdfsdfsdf sdfsdfsdf collect NFTczxcxzcxzc vxvcxcvcvcx svdfdsf"
+        description="Seel and Buy, store, dsfsdf sdfsdfsdfsdf sdfsdfsdf collect NFTczxcxzcxzc vxvcxcvcvcx svdfdsf"
         showBtn
         mockupImg={assets.homeHero}
         banner ="banner"
