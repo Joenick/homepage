@@ -5,10 +5,10 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title ="First React App nku kuys hahaha sample"
+        title ="Welcom eto WKND 1970"
         description="Seel and Buy, store, dsfsdf sdfsdfsdfsdf sdfsdfsdf collect NFTczxcxzcxzc vxvcxcvcvcx svdfdsf"
         showBtn
-        mockupImg={assets.homeHero}
+        mockupImg={assets.wkndlogo}
         banner ="banner"
         />
         <SectionWrapper 
